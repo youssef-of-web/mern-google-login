@@ -8,11 +8,14 @@ cd client
 
 npm install
 
-# 1- First you can the necessary ENV
+# 1- Add the necessary configuration into .env file
 
 PORT=5000
+
 MONGO_URI=
+
 GOOGLE_CLIENT_ID=
+
 GOOGLE_CLIENT_SECRET=
 
 # 2- You can now start the application
